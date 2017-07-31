@@ -17,5 +17,7 @@ Robolectric : http://robolectric.org/
 
 ## Screenshots: 
 
-(https://user-images.githubusercontent.com/16949791/28782790-d795b118-75d3-11e7-9dee-68eaf201b200.png)
+![the grid](https://user-images.githubusercontent.com/16949791/28783543-4bc93ae4-75d6-11e7-947b-0199af602178.png)
+![in game](https://user-images.githubusercontent.com/16949791/28783545-4e6e2bce-75d6-11e7-8ea1-56686624b460.png)
+![game over](https://user-images.githubusercontent.com/16949791/28783547-4f97e5bc-75d6-11e7-9940-3c607d57d034.png)
 
